@@ -29,7 +29,7 @@ class App extends Component {
         <p />
         <p />
         <p />
-        This is <Text color="red" value="Michael" />, no more no less.
+        This is <Text color="red" value="PK" />, no more no less.
         <p />
         <p />
         <p />
